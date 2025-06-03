@@ -2,7 +2,7 @@
 
 ## 📋 Project Description
 Machine learning system to detect counterfeit QR codes by analyzing print artifacts and Copy Detection Patterns (CDPs). Achieves 100% accuracy with Random Forest classifier.
-
+(assignment)
 ## 🛠 Installation
 ```bash
 git clone https://github.com/jhanaviii/QR_Code.git
